@@ -3,7 +3,8 @@ const add = require("./utils");
 const getNotes = require("./notes")
 
 const sum = add(2, 6);
-const notes = getNotes()
+const msg = getNotes()
+
+console.log(firstName);
 console.log(sum);
-console.log(notes);
-// console.log(firstName);
+console.log(msg);
