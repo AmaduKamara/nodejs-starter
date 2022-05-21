@@ -1,0 +1,23 @@
+{
+  "name": "1-notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmaduKamara/nodejs-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmaduKamara/nodejs-starter/issues"
+  },
+  "homepage": "https://github.com/AmaduKamara/nodejs-starter#readme",
+  "dependencies": {
+    "validator": "^10.8.0"
+  }
+}
