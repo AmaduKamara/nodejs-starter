@@ -1,0 +1,1 @@
+This file is the beginning of node file system. This text is appended with the appendFileSync method.
